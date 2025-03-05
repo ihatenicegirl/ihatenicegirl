@@ -1,3 +1,17 @@
+## Me 🍀
+Hello, My name is Nikolas, i have 15 years old, i from Brazil,
+Beginner programmer looking to learn more,
+My favorite programming languages ​​are Lua and Java.
+I speak in 🇵🇹🇬🇧🇪🇸🇺🇦
+
+
+
+
+
+
+
+
+
 ## My Skills
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="80" height="30">
