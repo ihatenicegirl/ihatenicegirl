@@ -1,4 +1,4 @@
-## Hi there 👋
+## My Skills
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="50" height="20">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="50" height="20">
