@@ -2,7 +2,7 @@
 Hello, My name is Nikolas, i have 15 years old, i from Brazil,
 Beginner programmer looking to learn more,
 My favorite programming languages ​​are Lua and Java.
-I speak in 🇵🇹🇬🇧🇪🇸🇺🇦
+I speak in 🇵🇹🇬🇧
 
 
 
